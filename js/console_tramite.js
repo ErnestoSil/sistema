@@ -271,7 +271,7 @@ function Registrar_Tramite(){
     formData.append("dir",dir);
     formData.append("vpresentacion",vpresentacion);
     formData.append("ruc",ruc);
-    formData.append("raz",raz);
+    formData.append("raz",raz);//razon social   
     //////DATOS DEL DOCUMENTO
     formData.append("arp",arp);
     formData.append("ard",ard);
@@ -417,5 +417,7 @@ $('#tabla_seguimiento').on('click','.ver',function(){
     window.open('../'+data.mov_archivo);
 
 })
+
+
 
 

@@ -30,9 +30,7 @@
                             <label for="">DNI</label>
                             <div class="input-group col-12">
                             <input type="text" class="form-control" id="txt_dni">
-                                <div class="input-group-prepend">
-                                    <button type="button" class="btn btn-success" onclick="Buscar_reniec()"><i class="fa fa-search"></i></button>
-                                </div>
+
                             <!-- /btn-group -->
                     
                             </div>

@@ -65,10 +65,10 @@
           <!-- /.col -->
         </div>
       <p class="mb-1">
-        <a href="forgot-password.html">Rastrear tramite</a>
+        <a href="seguimiento.php">Rastrear tramite</a>
       </p>
       <p class="mb-0">
-        <a href="register.html" class="text-center">Registrar Tramite</a>
+        <a href="registrar.php" class="text-center">Registrar Tramite</a>
       </p>
     </div>
     <!-- /.login-card-body -->

@@ -246,6 +246,8 @@
     </div>
   </div>
 </div>  
+
+
     <script>
       $(document).ready(function() {
         listar_tramite();
